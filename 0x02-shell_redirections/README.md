@@ -1,9 +1,9 @@
 0x02. Shell, I/O Redirections and filters
-0-hello\_world prints “Hello, World”, followed by a new line to the standard output.
+0-helloconfused\_smiley displays a confused smiley "(Ôo)'
 
-1-confused\_smiley displays a confused smiley "(Ôo)'
+1-Write a script that displays a confused smiley "(Ôo)'.
 
-2-hellofile displays the content of the /etc/passwd file.
+2-Display the content of the /etc/passwd file.
 
 3-twofiles displays the content of /etc/passwd and /etc/hosts.
 
